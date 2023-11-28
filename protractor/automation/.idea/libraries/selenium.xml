@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/smoke/node_modules/protractor/node_modules/webdriver-manager/selenium/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/smoke/node_modules/protractor/node_modules/webdriver-manager/selenium/chromedriver_87.0.4280.20.zip!/" />
+      <root url="jar://$PROJECT_DIR$/smoke/node_modules/protractor/node_modules/webdriver-manager/selenium/geckodriver-v0.28.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
