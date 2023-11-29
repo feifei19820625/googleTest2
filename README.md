@@ -10,7 +10,7 @@
     6. to make sure the chrome version and chrome Driver version are same as 114, otherwise the chrome can't be involked.
 
 ## Comments:
-7.how to suspend the chrome to update the latest version?
+    7.how to suspend the chrome to update the latest version?
       since the webdriver and chrome should keep the same version as 114, but chrome always to update itself automaticlly,it is neccessary to stop that by edit the values in registry, for the other methods, like stopping the updating services, or deleting the folder of update and other methods, don't work after verification:
         1).On the registry editor open the “HKEY_LOCAL_MACHINE” folder. You may double click on the folder or click on the arrow to open.
         2).Open the “SOFTWARE” folder and scroll down to “Policies”.
