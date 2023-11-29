@@ -37,9 +37,11 @@
       the search results.
 
 ## Video of Execution
-
-
 https://github.com/feifei19820625/googleTest2/assets/5669029/68d8203a-cfb8-4965-85b6-57e63edafccc
+
+## Test Report
+<img width="1239" alt="executionScreenShot" src="https://github.com/feifei19820625/googleTest2/assets/5669029/92cd7320-abad-47d1-922f-ab14931f519b">
+
 
 
 
