@@ -10,6 +10,10 @@ Mixture is a powerful node-based tool crafted in unity to generate all kinds of 
 
 ![](Packages/com.alelievr.mixture/Documentation~/Images/2020-11-04-01-04-59.png)
 
+
+https://github.com/feifei19820625/googleTest2/assets/5669029/8be9f8c6-c2ca-4d4e-bdf5-5fd46aa02047
+
+
 # Getting Started
 
 ## Installation
@@ -85,8 +89,7 @@ Fractal nodes in Mixture:
 ![image](https://user-images.githubusercontent.com/6877923/102915300-d8944e00-4481-11eb-8e93-f7a57c21b830.png)
 
 Mixture Variants:
-
-https://github.com/feifei19820625/googleTest2/blob/master/video.mp4
+[https://github.com/feifei19820625/googleTest2/blob/master/video.mp4](https://github.com/feifei19820625/googleTest2/assets/5669029/8be9f8c6-c2ca-4d4e-bdf5-5fd46aa02047)
 
 
 Earth Heightmap node:
